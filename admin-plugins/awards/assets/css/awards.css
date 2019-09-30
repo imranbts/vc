@@ -1,0 +1,82 @@
+
+
+body{
+    background: #f1f1f1 !important;
+}
+
+.header-row{
+	background-color: #23282d;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.header-row h2 {
+    color: #fff;
+}
+
+
+button.btn.btn-white,
+button.btn.btn-white:hover {
+    background-color: #fff;
+    border-radius: 0px;
+    margin: 5px;
+}
+
+.award_icon {
+    height: 200px;
+    width: auto;
+    cursor: pointer;
+}
+
+
+img.training_picture {
+    height: 150px;
+}
+
+
+
+
+/***********/
+
+#AddAwardModalBtn{
+    margin:15px;
+}
+
+.award_box {
+    width: 100%;
+    height: 350px;
+    padding: 10px 10px 0px 10px;
+    border: 1px solid;
+    text-align: center;
+}
+
+.award_box img {
+    width: 300px;
+    max-height: 270px;
+}
+
+.award_actions_wrapper {
+    height: 50px;
+    background-color: #c1c1c1;
+    margin: 15px 0px 0px 0px;
+    padding: 10px;
+}
+
+.award_actions_wrapper button:nth-child(1){
+    float: left;
+    margin-left: 30px;
+}
+
+.award_actions_wrapper button:nth-child(2){
+    float: right;
+    margin-right: 30px;
+}
+
+/**********/
+
+div#AddNewAwardPanel {
+    height: 300px;
+    background: #c1c1c1;
+    margin: 0px 0px 30px 0px;
+    padding: 20px;
+    text-align: center;

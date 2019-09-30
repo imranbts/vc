@@ -1,0 +1,478 @@
+<?php
+/**
+ * Template Name: Static Home
+ */
+
+ get_header();
+
+ 
+
+ ?>
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,700,900" rel="stylesheet">
+
+
+<section>
+   <div class="row m-0 m-sm_0-15">
+      <div class="col-md-12">
+         <?php
+            /* Start - Rervolutional Slider */
+ echo do_shortcode('[rev_slider alias="parallax_scroll_slider"]');
+ /* End - Rervolutional Slider */
+         ?>
+      </div>
+   </div>
+</section>
+
+<!-- Start - Home Page Section 01 --->
+<section class="container-fluid hps_1">
+   <div class="row m-0 m-sm_0-15">
+      <div class="col-lg-12 col-sm-12">
+         <div class="hps_1_header">
+            <h1 class="hps_heading has_dot">Custom Software Development</h1>
+            <h2 class="hps_sub_heading">Turning your ideas into realistic solutions</h2>
+         </div>
+      </div>
+   </div>
+   <div class="row m-0 m-sm_0-15">
+      <div class="col-md-3 col-6">
+         <div class="fly_box_1" >
+            <img src="/wp-content/uploads/2019/03/custom-software-development-01.jpg" alt=" viftech logo 3d">
+         </div>
+      </div>
+      <div class="col-md-3 col-6">
+         <div class="fly_box_2" >
+            <img src="/wp-content/uploads/2019/03/custom-software-development-02.jpg" alt=" viftech logo 3d">
+         </div>
+      </div>
+      <div class="col-md-3 col-6">
+         <div class="fly_box_1" >
+            <img src="/wp-content/uploads/2019/03/custom-software-development-03.jpg" alt=" viftech logo 3d">
+         </div>
+      </div>
+      <div class="col-md-3 col-6">
+         <div class="fly_box_2" >
+            <img src="/wp-content/uploads/2019/03/custom-software-development-04.jpg" alt=" viftech logo 3d">
+         </div>
+      </div>
+   </div>
+</section>
+<!-- END - Home Page Section 01 --->
+
+<!-- Start - Home Page Section 02 --->
+<section class="container-fluid hps_2">
+   <div class="row m-0 m-sm_0-15">
+      <div class="col-lg-12">
+         <div class="hps_2_header pb-0">
+            <h1 class="hps_heading mt-50">OUR SERVICES tyg</h1>
+         </div>
+      </div>
+   </div>
+   <div class="row m-0 m-sm_0-15">
+      <div class="col-lg-4">
+         <div class="hps_2_box aos-init aos-animate" data-aos="zoom-out-up" data-aos-duration="600">
+            <div class="hps_2_box_header">
+               <img src="/wp-content/uploads/2019/03/services-sharepoint.png">
+               <h4 class="hps_2_box_title">SharePoint</h4>
+               <p class="hps_2_box_sub_title">– for Small Business &amp; Enterprise</p>
+            </div>
+            <div class="hps_2_box_body">
+               <p class="hps_2_box_description">VIFTECH covers outstanding Sharepoint development services designed to help your business grow and evolve very fast. We help you complete projects faster, move to the cloud and improve the way you customizer your business at a professional level.</p>
+               <p class="hps_2_box_description_points"><strong>SharePoint Migration</strong>– access the latest features from Sharepoint</p>
+               <p class="hps_2_box_description_points"><strong>SharePoint Workflows</strong> – we help you automate the business faster and with great efficiency</p>
+               <p class="hps_2_box_description_points"><strong>SharePoint Online</strong> – create the best Sharepoint cloud infrastructure for your business</p>
+               <p class="hps_2_box_description_points"><a class="orange_link hvr-icon-pulse-shrink" href="#"><i class="far fa-long-arrow-right hvr-icon"></i><span>Details</span></a></p>
+            </div>
+         </div>
+      </div>
+      <div class="col-lg-4">
+         <div class="hps_2_box aos-init aos-animate" data-aos="zoom-out-up" data-aos-duration="600">
+            <div class="hps_2_box_header">
+               <img src="/wp-content/uploads/2019/03/services-mobile-app.png">
+               <h4 class="hps_2_box_title">MOBILE APP</h4>
+               <p class="hps_2_box_sub_title">– Innovation beyond imagination</p>
+            </div>
+            <div class="hps_2_box_body">
+               <p class="hps_2_box_description">We have more than 10 years of experience in the mobile development world. VIFTECH will use all the latest technologies to create outstanding mobile apps according to customer requirements. We are clear innovators and we will make apps that work seamlessly on any device you want!</p>
+               <p class="hps_2_box_description_points"><strong>Expert App Developers</strong>– Get your app created by some of the top developers in the world</p>
+               <p class="hps_2_box_description_points"><strong>Latest Tech</strong> – We provide you with stellar support and immediate access to cutting-edge technologies</p>
+               <p class="hps_2_box_description_points"><strong>Innovation </strong> – VIFTECH is a team of innovators and clear professionals.</p>
+               <p class="hps_2_box_description_points"><a class="orange_link hvr-icon-pulse-shrink" href="#"><i class="far fa-long-arrow-right hvr-icon"></i><span>Details</span></a></p>
+            </div>
+         </div>
+      </div>
+      <div class="col-lg-4">
+         <div class="hps_2_box aos-init aos-animate" data-aos="zoom-out-up" data-aos-duration="600">
+            <div class="hps_2_box_header">
+               <img src="/wp-content/uploads/2019/03/services-data-warehousing.png">
+               <h4 class="hps_2_box_title">DATA WAREHOUSING</h4>
+               <p class="hps_2_box_sub_title">– Informed Decision Making</p>
+            </div>
+            <div class="hps_2_box_body">
+               <p class="hps_2_box_description">Our data warehousing solutions are designed to boost business performance and enhance your decision making. Our solutions are designed to help you handle and manage your data adequately, all while fully getting business insights directly from customers.</p>
+               <p class="hps_2_box_description_points"><strong>Cost Effective</strong>– We help you save a lot of time and money as you try to grow your business and take it to the next level</p>
+               <p class="hps_2_box_description_points"><strong>Secure</strong> –  Our data warehousing solutions are fast, professional and very secure</p>
+               <p class="hps_2_box_description_points"><strong>Efficient</strong> – VIFTECH offers enterprise class data warehousing capabilities for every client.</p>
+               <p class="hps_2_box_description_points"><a class="orange_link hvr-icon-pulse-shrink" href="#"><i class="far fa-long-arrow-right hvr-icon"></i><span>Details</span></a></p>
+            </div>
+         </div>
+      </div>
+      <div class="col-lg-4">
+         <div class="hps_2_box aos-init aos-animate" data-aos="zoom-out-up" data-aos-duration="600">
+            <div class="hps_2_box_header">
+               <img src="/wp-content/uploads/2019/03/services-web-development.png">
+               <h4 class="hps_2_box_title">SAP</h4>
+               <p class="hps_2_box_sub_title">– Compelling & Customized</p>
+            </div>
+            <div class="hps_2_box_body">
+               <p class="hps_2_box_description">VIFTECH covers all the best and latest SAP features that you can find on the market. We use the latest and greatest web technologies like SAP to create an amazing set of features that help your business grow.</p>
+               <p class="hps_2_box_description_points"><strong>Quality </strong>– Professionally created SAP solutions</p>
+               <p class="hps_2_box_description_points"><strong>User Specific</strong> – Everything is targeted to the desired audience</p>
+               <p class="hps_2_box_description_points"><strong>Brand Building</strong> – We help you build your brand the right way.</p>
+               <p class="hps_2_box_description_points"><a class="orange_link hvr-icon-pulse-shrink" href="#"><i class="far fa-long-arrow-right hvr-icon"></i><span>Details</span></a></p>
+            </div>
+         </div>
+      </div>
+      <div class="col-lg-4">
+         <div class="hps_2_box aos-init aos-animate" data-aos="zoom-out-up" data-aos-duration="600">
+            <div class="hps_2_box_header">
+               <img src="/wp-content/uploads/2019/03/services-hardware.png">
+               <h4 class="hps_2_box_title">HARDWARE</h4>
+               <p class="hps_2_box_sub_title">– IT Hardware Solutions</p>
+            </div>
+            <div class="hps_2_box_body">
+               <p class="hps_2_box_description">Using the best hardware technologies is one of the main ways you can surpass your competition. And with our help you will get to have solutions that fully align to the company structure and help you evolve.</p>
+               <p class="hps_2_box_description_points"><strong>Server Solutions</strong>– We provide high standard server solutions customized to your own needs</p>
+               <p class="hps_2_box_description_points"><strong>Desktop Solutions</strong> – Access comprehensive consulting services</p>
+               <p class="hps_2_box_description_points"><strong>NoteBook Solutions </strong> – Get solutions based on requirements</p>
+               <p class="hps_2_box_description_points"><a class="orange_link hvr-icon-pulse-shrink" href="#"><i class="far fa-long-arrow-right hvr-icon"></i><span>Details</span></a></p>
+            </div>
+         </div>
+      </div>
+      <div class="col-lg-4">
+         <div class="hps_2_box aos-init aos-animate" data-aos="zoom-out-up" data-aos-duration="600">
+            <div class="hps_2_box_header">
+               <img src="/wp-content/uploads/2019/03/services-office-365.png">
+               <h4 class="hps_2_box_title">OFFICE 365</h4>
+               <p class="hps_2_box_sub_title">– Simplified for you</p>
+            </div>
+            <div class="hps_2_box_body">
+               <p class="hps_2_box_description">Every business needs professional office tools and with Office 365 you will get just that. We have some of the best Office 365 consultants that will help you create the right and most reliable solutions for your business.</p>
+               <p class="hps_2_box_description_points"><strong>Collaboration </strong>– Collaborate in the cloud with the entire team</p>
+               <p class="hps_2_box_description_points"><strong>Communication </strong> – Improved communication and flexibility</p>
+               <p class="hps_2_box_description_points"><strong>Risk Mitigation </strong> – Professional risk mitigation</p>
+               <p class="hps_2_box_description_points"><a class="orange_link hvr-icon-pulse-shrink" href="#"><i class="far fa-long-arrow-right hvr-icon"></i><span>Details</span></a></p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- End - Home Page Section 02 --->
+
+<!-- Start - Home Page Section 03 --->
+<section class="container-fluid hps_3">
+   <div class="row m-0 m-sm_0-15">
+      <div class="col-lg-12">
+         <div class="hps_3_header">
+            <h1 class="hps_heading">ENGAGEMENT MODELS</h1>
+         </div>
+      </div>
+   </div>
+   <div class="row">
+      <div class="col-lg-4">
+         <div class="hps_3_box aos-init aos-animate" data-aos="fade-up" data-aos-duration="600">
+            <div class="hps_3_box_header" style="background-image: url('http://new.viftech.linuxdemos.me/wp-content/uploads/2019/03/engagement-model-01.png');background-repeat: no-repeat;background-size: cover;">
+               <h4 class="hps_3_box_title">Dedicated <br> Team Model</h4>
+            </div>
+            <div class="hps_3_box_body">
+               <p class="hps_3_box_description">If you represent a company with regular large projects, or if your need ongoing work, ask about a retainer. It’s a pay-as-you-go monthly rolling contract. You’ll get our technical infrastructure, expertise, processes and exe- cution abilities as easily as if we were located in the Office across the hall.</p>
+               <ul class="hps_3_box_points_list">
+                  <li> <i class="far fa-check green_check_icon"></i> <span>No Hidden Costs<span></li>
+                  <li> <i class="far fa-check green_check_icon"></i> <span>Monthly Billing<span></li>
+                  <li> <i class="far fa-check green_check_icon"></i> <span>Pay As You Go<span></li>
+                  <li> <i class="far fa-check green_check_icon"></i> <span>Dedicated Resources<span></li>
+                  <li> <i class="far fa-check green_check_icon"></i> <span>More production<span></li>
+                  <li> <i class="far fa-check green_check_icon"></i> <span>No Setup Fees<span></li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="col-lg-4">
+         <div class="hps_3_box aos-init aos-animate" data-aos="fade-up" data-aos-duration="600">
+            <div class="hps_3_box_header" style="background-image: url('http://new.viftech.linuxdemos.me/wp-content/uploads/2019/03/engagement-model-02.png');background-repeat: no-repeat;background-size: cover;">
+               <h4 class="hps_3_box_title">Engagement  <br> Model</h4>
+            </div>
+            <div class="hps_3_box_body">
+               <p class="hps_3_box_description">We have proudly served clients from every possible industry imaginable, with businesses ranging from large, well-established businesses to completely new market entrants and startups. So regardless of your size and industry, we will have a solution for you.<br>We offer two Engagement Models</p>
+               <ul class="hps_3_box_points_list">
+                  <li> <i class="far fa-check red_check_icon"></i> <span>Dedicated Team Models<span></li>
+                  <li> <i class="far fa-check red_check_icon"></i> <span>Fixed Cost Model<span></li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="col-lg-4">
+         <div class="hps_3_box aos-init aos-animate" data-aos="fade-up" data-aos-duration="600">
+            <div class="hps_3_box_header" style="background-image: url('http://new.viftech.linuxdemos.me/wp-content/uploads/2019/03/engagement-model-03.png');background-repeat: no-repeat;background-size: cover;">
+               <h4 class="hps_3_box_title">Fixed Cost <br> Model</h4>
+            </div>
+            <div class="hps_3_box_body">
+               <p class="hps_3_box_description">If you have clear, well-defined requirements, you might prefer our fixed-price model. You’ll pay a certain amount that we agree on for a defined amount of work, making this a simple, transparent deal.</p>
+               <ul class="hps_3_box_points_list">
+                  <li> <i class="far fa-check blue_check_icon"></i> <span>Clear & Simple<span></li>
+                  <li> <i class="far fa-check blue_check_icon"></i> <span>Easy Upgrade<span></li>
+                  <li> <i class="far fa-check blue_check_icon"></i> <span>Effective Milestones<span></li>
+                  <li> <i class="far fa-check blue_check_icon"></i> <span>Constant Price<span></li>
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- End - Home Page Section 03 --->
+
+<!-- Start - Home Page Section 04 --->
+<section class="container-fluid hps_4">
+   <div class="row m-0 m-sm_0-15">
+      <div class="col-lg-12">
+         <div class="hps_4_header">
+            <h1 class="hps_heading">TESTIMONIALS</h1>
+         </div>
+      </div>
+   </div>
+   <div class="row m-0 m-sm_0-15">
+      <div class="col-lg-12">
+         <div class="testimonials_slider_wrapper">
+            <div class="owl-carousel owl-theme testimonials_slider">
+               <div class="item">
+                  <div class="row">
+                     <div class="col-md-4 testimonials__user-info text-sm-center">
+                        <img src="/wp-content/uploads/2019/03/testimonials-01.png">
+                        <strong style="display: block;">Dave</strong>
+                        <span>Founder at Education Startup</span>  
+                     </div>
+                     <div class="col-md-8">
+                        <p>During the project flow we were very satisfied by the work of Viftech’s business analysts and developers, who demonstrated high level of skills and competence. They made many important contributions to our products both in terms of functionality and quality.</p>
+                        <q class="quote-ending">Strong</q>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="row">
+                     <div class="col-lg-4 testimonials__user-info text-sm-center">
+                        <img src="/wp-content/uploads/2019/03/testimonials-02.png">
+                        <strong style="display: block;">TAO</strong>
+                        <span>Founder at Education Startup</span>  
+                     </div>
+                     <div class="col-lg-8">
+                        <p>We would absolutely recommend Viftech Solutions as skilled and dependable consulting and development partner. Over the past 10 years we have worked on around 10 different mobile app development projects with Viftech Solutions. It was our leading project with an outsourcing business. We have a very strong bounding, therefore we don’t require any other suppliers to work with.</p>
+                        <q class="quote-ending">Good Job</q>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="row">
+                     <div class="col-lg-4 testimonials__user-info text-sm-center">
+                        <img src="/wp-content/uploads/2019/03/testimonials-03.png">
+                        <strong style="display: block;">Andy</strong>
+                        <span>Founder & President of PEI Services</span>  
+                     </div>
+                     <div class="col-lg-8">
+                        <p>Viftech Solutions is a certified and dedicated firm. Their developers did really a good job also we certainly not face any big issues with their methodology or provided work. They have saved us many times in developing the iOS version of an app. Viftech Solutions manage to provide the Android counterpart.</p>
+                        <q class="quote-ending">Great</q>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="row">
+                     <div class="col-lg-4 testimonials__user-info text-sm-center">
+                        <img src="/wp-content/uploads/2019/03/testimonials-04.png">
+                        <strong style="display: block;">Aaron</strong>
+                        <span>COO at 1on1 Development</span>  
+                     </div>
+                     <div class="col-lg-8">
+                        <p>Viftech solutions is known for its dependability, creativity, reliability, good timing, quality and professionalism. Without any doubt it is our first choice for all our future deals.</p>
+                        <q class="quote-ending">Improve</q>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- End - Home Page Section 04 --->
+
+<!-- Start - Home Page Section 05 --->
+<section class="container-fluid hps_5">
+   <div class="row m-0 m-sm_0-15">
+      <div class="col-lg-6">
+         <div class="photo-group">
+            <img src="/wp-content/uploads/2019/03/leading-it-company-01.jpg" alt="app developers team" class="aos-init aos-animate" data-aos="fade-down" data-aos-duration="600" />
+            <img src="/wp-content/uploads/2019/03/leading-it-company-02.jpg" alt="gbksoft app developer&#96;s sweatshirt" class="aos-init aos-animate" data-aos="fade-left" data-aos-duration="600" />
+            <img src="/wp-content/uploads/2019/03/leading-it-company-03.jpg" alt="our clients around the world" class="aos-init aos-animate" data-aos="fade-right" data-aos-duration="600" />
+            <img src="/wp-content/uploads/2019/03/leading-it-company-04.jpg" alt="we are a ukrainian website company" class="aos-init aos-animate" data-aos="fade-up" data-aos-duration="600" />
+         </div>
+      </div>
+      <div class="col-lg-6">
+         <div class="hps_5_header">
+            <h1 class="hps_heading mb-50">LEADING IT <br>COMPANY</h1>
+         </div>
+         <div class="hps_5_body">
+            <p class="hps_5_description">VIFTECH was created in 2009 and we always focused on helping businesses all over the country access the features and results they want. We are fully committed to giving you access to some of the best professionals on the market. VIFTECH has the best IT team out there and we can easily handle any challenge and tasks that come your way. We also aspire to provide outstanding results and a stellar experience to every client. And we are also expert communicators, which means you can always come to us if you want help or assistance!</p>
+            <p class="hps_5_description">We aspire to deliver consistent excellence by providing highly customized, feasible and scalable IT solutions.</p>
+            <h1 class="hps_5_sub_heading">Creating software solutions <br>for the world leading clients.</h1>
+            <a class="orange_link hvr-icon-pulse-shrink" href="#"><i class="far fa-long-arrow-right hvr-icon"></i><span>Let’s Connect!</span></a>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- End - Home Page Section 05 --->
+
+<!--- Start - Home Page Section 06 / Portfolio Slider --->
+<section class="section-v2">
+   <div class="container-fluid">
+      <h3 class="heading-2">OUR PORTFOLIO</h3>
+      <div class="portfolio_slider_Wrapper">
+         <div class="owl-carousel owl-theme portfolio_slider">
+            <div class="item">
+               <a href="">
+                  <img src="http://new.viftech.linuxdemos.me/wp-content/uploads/2019/02/AUOVS.jpg">
+                  <div class="portfolio-title">
+                     <h5>AUOVS</h5>
+                     <p>Corporate Website</p>
+                  </div>
+               </a>
+            </div>
+            <div class="item">
+               <a href="">
+                  <img src="http://new.viftech.linuxdemos.me/wp-content/uploads/2019/02/total-parco.jpg">
+                  <div class="portfolio-title">
+                     <h5>Total Parco</h5>
+                     <p>Mobile application </p>
+                  </div>
+               </a>
+            </div>
+            <div class="item">
+               <a href="">
+                  <img src="http://new.viftech.linuxdemos.me/wp-content/uploads/2019/02/Ayxyn.png">
+                  <div class="portfolio-title">
+                     <h5>Fantasy Rugger</h5>
+                     <p>Gambling Platform</p>
+                  </div>
+               </a>
+            </div>
+            <div class="item">
+               <a href="">
+                  <img src="http://new.viftech.linuxdemos.me/wp-content/uploads/2019/02/ssgc.jpg">
+                  <div class="portfolio-title">
+                     <h5>SSGC</h5>
+                     <p>Web &amp; Mobile App</p>
+                  </div>
+               </a>
+            </div>
+         </div>
+         <div class="customNavigation">
+            <a class="btn prev"><img src="http://new.viftech.linuxdemos.me/wp-content/themes/viftech/img/home/arrow-right.svg" ></a>
+            <a class="btn next"><img src="http://new.viftech.linuxdemos.me/wp-content/themes/viftech/img/home/arrow-left.svg"></a>
+            <div class="portfolio__controls-links"><a class="link" href="#" rel="nofollow">Show all Cases</a><br>
+               <a class="link" href="#" rel="nofollow" download="download">Download Presentation</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!--- End - Home Page Section 06 / Portfolio Slider --->
+
+<!--- Start - Home Page Section 07 / Request a Quate --->
+<section class="container-fluid request_quate_section">
+   <div class="row m-0 m-sm_0-15">
+      <div class="col-lg-6">
+         <p class="request_quate_section_heading_white">You've got</p>
+         <p class="request_quate_section_heading_orange">a project in mind</p>
+         <p class="request_quate_section_heading_white">What's next?</p>
+         <p class="request_quate_section_description">Sent us a message with a brief description of your project. Our expert <br>
+            team will review it and get back to you within one business day with <br> free consultation and to discuss the next steps.
+         </p>
+      </div>
+      <div class="col-lg-6">
+         <form>
+            <div class="row">
+               <div class="col-lg-6">
+                  <div class="form-group">
+                     <input type="text" class="form-control" id=""  placeholder="Name*">
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="form-group">
+                     <input type="email" class="form-control" id=""  placeholder="Email*">
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="form-group">
+                     <input type="text" class="form-control" id=""  placeholder="Phone Number*">
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="form-group">
+                     <select class="form-control" id="" name="">
+                        <option>Under 25 K</option>
+                        <option>25 - 45 K</option>
+                        <option>45 - 80 K</option>
+                        <option>80 - 150 K</option>
+                        <option>150 - 200 K</option>
+                        <option>250 - 400 K</option>
+                        <option>Above $500K</option>
+                     </select>
+                  </div>
+               </div>
+               <div class="col-lg-12">
+                  <div class="form-group">
+                     <textarea class="form-control" rows="5" id="comment"></textarea>
+                  </div>
+               </div>
+               <div class="col-lg-12">
+                  <button class="orange_gradient_glowing_btn" type="submit">Send Message</button>
+               </div>
+            </div>
+         </form>
+      </div>
+   </div>
+</section>
+<!--- End - Home Page Section 07 / Request a Quate --->
+
+<!--- Start - Awards Section --->
+<section class="container-fluid awards_slider_section">
+   <div class="row">
+      <div class="col-lg-12">
+         <div class="awards_slider_wrapper" >
+            <!--  aos-animate" data-aos="fade-up" data-aos-duration="800" -->
+            <div class="owl-carousel owl-theme awards_slider">
+               <div class="item">
+                  <img src="http://new.viftech.linuxdemos.me/wp-content/uploads/2019/02/pasha.png" alt="App Futura" style="">
+               </div>
+               <div class="item">
+                  <img src="http://new.viftech.linuxdemos.me/wp-content/uploads/2019/02/CSM_ConceptsR2-04.png" alt="App Futura" style="">
+               </div>
+               <div class="item">
+                  <img src="http://new.viftech.linuxdemos.me/wp-content/uploads/2019/02/pseb.png" alt="App Futura">
+               </div>
+               <div class="item">
+                  <img src="http://new.viftech.linuxdemos.me/wp-content/uploads/2019/02/microsoft.png" alt="App Futura" style="">
+               </div>
+               <div class="item">
+                  <img src="http://new.viftech.linuxdemos.me/wp-content/uploads/2019/02/iso-27001.png" alt="App Futura" style="max-width: 155px;">
+               </div>
+               <div class="item">
+                  <img src="http://new.viftech.linuxdemos.me/wp-content/uploads/2019/02/iso-9001.png" alt="App Futura" style="">
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!--- End - Awards Section --->
+
+ <?php
+
+ get_footer();
+

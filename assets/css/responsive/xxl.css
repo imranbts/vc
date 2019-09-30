@@ -1,0 +1,20 @@
+.photo-group img:first-child 
+{
+    width: 333px;
+}
+
+.photo-group img:nth-child(2)
+{
+    width: 198px;
+}
+
+.photo-group img:nth-child(3)
+{
+    width: 333px;
+    margin-top: -50px;
+}
+
+.photo-group img:nth-child(4)
+{
+    width: 198px;
+}

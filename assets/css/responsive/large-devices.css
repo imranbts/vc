@@ -1,0 +1,168 @@
+.hps_heading {
+    font-size: 5vw;
+}
+ .navbar-brand {
+    width: 100px;
+    height: auto;
+    /* background: url(http://new.viftech.linuxdemos.me/wp-content/uploads/2019/02/logo.png) left center no-repeat; */
+    border: 0;
+    text-indent: -99999px;
+    background-size: contain;
+    }
+    .hps_2 {
+
+        padding: 10px 65px;
+    
+    }
+    .footer_heading {
+        /* font-size: 3vw; */
+    }
+    .nav_item_orange_link a, .nav_item_orange_link a:hover {
+        max-width: 190px;
+        text-align: center;
+    }
+    .navbar-brand {
+     height: auto!important;
+    }
+
+    .navbar-brand img
+    {
+        width: 100px;
+        margin: 0;
+        position: relative;
+        right: 10px;
+    }
+
+    .hps_3_box_points_list li
+    {
+        width: 100%!important;
+    }    
+
+    .quote-ending
+    {
+        font-size: 70px;
+    }
+
+    .quote-ending:before {
+        width: 84px;
+        height: 50px;
+        margin-right: 10px;
+    }
+
+    .photo-group img 
+    {
+        display: block;
+        position: relative;
+        object-fit: cover;
+        width: 50%;
+        left: 0!important;
+        top: 0;
+        float: left;
+    }
+
+    .footer_ul_horizental li
+    {
+        /* width: 24px;
+        height: 24px; */
+    }
+
+    .icon_circle
+    {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+        padding: 9px;
+    }
+
+    section.vip_adc
+    {
+        padding: 40px 20px;
+    }
+
+    .vip_adc_wrapper
+    {
+        padding: 0;
+    }
+
+    .m-_0sm
+    {margin: 0;}
+
+    .our_services_01_box {
+        height: 260px;
+        padding: 20px 20px 10px 20px;
+    }
+
+    
+    #menu-main-menu li:nth-child(3) .dropdown-menu .dropdown-submenu:last-child 
+    {
+        position: relative;
+    }
+
+    .photo-group img {
+        width: 100%!important;
+        top: 0;
+        bottom: 0;
+        margin-bottom: 20px;
+        margin-top: 0!important;
+    }
+
+    .our_services_02_box_details a, .our_services_01_box_details a
+    {
+        display: block;
+    }
+
+    a.nav-link.scroll-link {
+        padding-right: 10px!important;
+        padding-left: 10px!important;
+        font-size: 14px!important;
+    }
+
+    .request_a_quote_right_box {
+        width: 58%;
+        padding: 40px 10px 10px 40px;
+        left: 370px;
+    }    
+
+
+    .request_a_quote_left_box img {
+        width: 40px;
+    }
+
+    .request_a_quote_left_box
+    {
+        height: 600px;
+    }
+
+    .request_a_quote_right_box_wrapper:after {
+        width: 250px;
+        height: 328px;
+        right: 20px;
+        bottom: -60px;
+    }
+
+    .vc_row.wpb_row.vc_row-fluid.vc_row-has-fill.vc_general.vc_parallax.vc_parallax-content-moving .wpb_column.vc_column_container.vc_col-sm-2 {
+        display: none;
+    }
+
+    .vip_ofwi_wrapper
+    {
+        margin-left: 15px;
+    }
+
+    .vc_row.wpb_row.vc_row-fluid .wpb_column.vc_column_container.vc_col-sm-2 {
+        display: none;
+    }
+
+    .vc_row.wpb_row.vc_row-fluid .wpb_column.vc_column_container.vc_col-sm-8 {
+        width: 100%;
+    }
+
+    img.img_client_work
+    {
+        right: 0;
+    }
+
+    .hps_3_box_description {
+        margin-bottom: 20px;
+        min-height: 280px;
+    }

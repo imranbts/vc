@@ -1,0 +1,35 @@
+
+
+body{
+    background: #f1f1f1 !important;
+}
+
+.header-row{
+	background-color: #23282d;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.header-row h2 {
+    color: #fff;
+}
+
+
+button.btn.btn-white,
+button.btn.btn-white:hover {
+    background-color: #fff;
+    border-radius: 0px;
+    margin: 5px;
+}
+
+.testimonial_client_pictire{
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+img.testimonial_picture {
+    height: 50px;
+    border-radius: 50%;
+}

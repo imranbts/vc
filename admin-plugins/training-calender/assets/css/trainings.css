@@ -1,0 +1,34 @@
+
+
+body{
+    background: #f1f1f1 !important;
+}
+
+.header-row{
+	background-color: #23282d;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.header-row h2 {
+    color: #fff;
+}
+
+
+button.btn.btn-white,
+button.btn.btn-white:hover {
+    background-color: #fff;
+    border-radius: 0px;
+    margin: 5px;
+}
+
+.training_post_thumbnail{
+    height: 400px;
+    width:100%;
+    cursor: pointer;
+}
+
+
+img.training_picture {
+    height: 150px;
+}

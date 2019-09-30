@@ -1,0 +1,65 @@
+.hps_2_box_sub_title
+{
+    font-size: 18px;
+}
+
+
+
+.hps_3_box_points_list li
+{
+    min-height: 50px;
+    line-height: inherit;
+}
+
+ul.hps_3_box_points_list li > .far {
+    width: 25px;
+    height: 25px;
+    padding: 0;
+    text-align: center;
+    line-height: 25px;
+    margin-right: 5px;
+}
+
+ul.hps_3_box_points_list li > span 
+{
+    width: calc(100% - 30px);
+    line-height: 24px;
+    font-size: 14px;
+}
+
+.hps_3_box
+{
+    min-height: 794px;
+}
+
+
+.get_in_touch_section_header
+{
+    min-height: 293px;
+}
+
+
+.hps_heading
+{
+    font-size: 50px;
+}
+
+.hps_sub_heading
+{
+    font-size: 40px;
+}
+
+img.img_sdeskto_lcd
+{
+    width: 500px;
+    top: -150px;
+}
+
+.sec_center_img {
+    min-height: 240px;
+}
+
+.hps_3_box_description {
+    margin-bottom: 20px;
+    min-height: 280px;
+}
